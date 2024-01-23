@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976420721562",
+    "project_id": "whatsappk-30dc5",
+    "storage_bucket": "whatsappk-30dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976420721562:android:79d8082728d987ecb22023",
+        "android_client_info": {
+          "package_name": "com.example.whatsappk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6Zxmb6QJmqaL49zp5BuMQbaz_ZScltc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
